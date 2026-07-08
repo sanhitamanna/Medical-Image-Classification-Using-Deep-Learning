@@ -1,5 +1,5 @@
 # Medical-Image-Classification-Using-Deep-Learning
-# CT Brain Tumor Classification Using Deep Learning
+
 
 ## Overview
 
